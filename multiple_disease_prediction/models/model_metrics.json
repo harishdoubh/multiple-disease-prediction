@@ -1,0 +1,70 @@
+[
+    {
+        "Model Name": "Logistic Regression",
+        "Accuracy": 0.7532467532467533,
+        "Precision": 0.6666666666666666,
+        "Recall": 0.6181818181818182,
+        "F1-score": 0.6415094339622641,
+        "Confusion_Matrix": [
+            [
+                82,
+                17
+            ],
+            [
+                21,
+                34
+            ]
+        ]
+    },
+    {
+        "Model Name": "Random Forest",
+        "Accuracy": 0.7532467532467533,
+        "Precision": 0.6545454545454545,
+        "Recall": 0.6545454545454545,
+        "F1-score": 0.6545454545454545,
+        "Confusion_Matrix": [
+            [
+                80,
+                19
+            ],
+            [
+                19,
+                36
+            ]
+        ]
+    },
+    {
+        "Model Name": "K-Nearest Neighbors",
+        "Accuracy": 0.7402597402597403,
+        "Precision": 0.6153846153846154,
+        "Recall": 0.7272727272727273,
+        "F1-score": 0.6666666666666666,
+        "Confusion_Matrix": [
+            [
+                74,
+                25
+            ],
+            [
+                15,
+                40
+            ]
+        ]
+    },
+    {
+        "Model Name": "Support Vector Machine",
+        "Accuracy": 0.7532467532467533,
+        "Precision": 0.6808510638297872,
+        "Recall": 0.5818181818181818,
+        "F1-score": 0.6274509803921569,
+        "Confusion_Matrix": [
+            [
+                84,
+                15
+            ],
+            [
+                23,
+                32
+            ]
+        ]
+    }
+]

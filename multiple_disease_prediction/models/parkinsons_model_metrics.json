@@ -1,0 +1,74 @@
+[
+    {
+        "Model Name": "SVM",
+        "Train_Accuracy": 0.9959349593495935,
+        "Accuracy": 0.9666666666666667,
+        "Precision": 0.9655172413793104,
+        "Recall": 0.9655172413793104,
+        "F1-score": 0.9655172413793104,
+        "Confusion_Matrix": [
+            [
+                30,
+                1
+            ],
+            [
+                1,
+                28
+            ]
+        ]
+    },
+    {
+        "Model Name": "XGBoost",
+        "Train_Accuracy": 1.0,
+        "Accuracy": 0.9166666666666666,
+        "Precision": 0.9,
+        "Recall": 0.9310344827586207,
+        "F1-score": 0.9152542372881356,
+        "Confusion_Matrix": [
+            [
+                28,
+                3
+            ],
+            [
+                2,
+                27
+            ]
+        ]
+    },
+    {
+        "Model Name": "Logistic Regression",
+        "Train_Accuracy": 0.8861788617886179,
+        "Accuracy": 0.8833333333333333,
+        "Precision": 0.8928571428571429,
+        "Recall": 0.8620689655172413,
+        "F1-score": 0.8771929824561403,
+        "Confusion_Matrix": [
+            [
+                28,
+                3
+            ],
+            [
+                4,
+                25
+            ]
+        ]
+    },
+    {
+        "Model Name": "Random Forest",
+        "Train_Accuracy": 1.0,
+        "Accuracy": 0.85,
+        "Precision": 0.8333333333333334,
+        "Recall": 0.8620689655172413,
+        "F1-score": 0.847457627118644,
+        "Confusion_Matrix": [
+            [
+                26,
+                5
+            ],
+            [
+                4,
+                25
+            ]
+        ]
+    }
+]
